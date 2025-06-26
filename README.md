@@ -6,6 +6,6 @@ CPG-аддон для CorelDraw для построения <a href=https://ru.w
 <tr><td>Программное обеспечение:<td>Corel Draw версии 17 или выше
 <tr><td>Процессор:<td>с поддержкой SSE4.1</table>
 <h1>Установка</h1><ol>
-<li>Распаковать архив для соответствующей архитектуры (<a href=>x86</a> или <a href=>x64</a>) в каталог "programs\addons" или "programs64\addons" соответственно.
+<li>Распаковать архив для соответствующей архитектуры (<a href=https://github.com/fersatgit/Voronoi/releases/download/v1.0/Voronoi_x86.7z>x86</a> или <a href=https://github.com/fersatgit/Voronoi/releases/download/v1.0/Voronoi_x64.7z>x64</a>) в каталог "programs\addons" или "programs64\addons" соответственно.
 <li>После запуска CorelDraw в контекстном меню подменю "Эффекты" выбрать пункт меню "Настройка->Меню Эффекты->Настройка по умолчанию"
 <p><img src=Readme\1.gif></ol>
